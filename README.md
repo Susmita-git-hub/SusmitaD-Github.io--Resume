@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1244570a-7984-4f68-9077-c3157904aad9" />
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/1244570a-7984-4f68-9077-c3157904aad9" />
 # Susmita Das, MBA
 ## 💡 Interest
 
