@@ -1,5 +1,7 @@
 <img width="60" height="101" alt="image" src="https://github.com/user-attachments/assets/1244570a-7984-4f68-9077-c3157904aad9" />
 # Susmita Das, MBA
+
+
 #💡 Interest
 I am interested in opportunities within your organization. With a strong background in delivering results, collaborating across teams, and adapting quickly to new challenges, I am confident in my ability to contribute positively to the team.
 
