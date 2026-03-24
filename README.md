@@ -120,11 +120,9 @@ West Bengal University of Technology
 ---
 
 ## 📬 Contact
-Linkdein [https://www.linkedin.com/in/susmitadas02/]
-
-Email [mailto:Saha.susmitadas@gmail.com]
-
-GitHUB [https://github.com/Susmita-git-hub]
+- Linkdein: [Susmita Das](https://www.linkedin.com/in/susmitadas02/)
+- Email: [Saha.susmitadas@gmail.com](Saha.susmitadas@gmail.com)
+- Github: [Susmita-git-hub](https://github.com/Susmita-git-hub)
 
 Feel free to connect via LinkedIn or email for opportunities,
 
