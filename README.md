@@ -121,8 +121,10 @@ West Bengal University of Technology
 
 ## 📬 Contact
 Linkdein https://www.linkedin.com/in/susmitadas02/
+
 Email Saha.susmitadas@gmail.com
-GitHUB https://github.com/Susmita-git-hub/SusmitaD-Github.io--Resume/edit/main/README.md
+
+GitHUB https://github.com/Susmita-git-hub
 
 Feel free to connect via LinkedIn or email for opportunities,
 
